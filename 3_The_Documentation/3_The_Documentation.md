@@ -13,7 +13,7 @@
   
 - **ProcessFlowDiagram.png**: A process flow diagram of the proposed system.
   
-- **PrototypeWireframes/**: Wireframes for key screens in the system.
+- **[ProtoypeWireframes/](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/PrototypeWireframes.md)**: Wireframes for key screens in the system.
   
 - **README.md**: An overview of the documentation content.
 
