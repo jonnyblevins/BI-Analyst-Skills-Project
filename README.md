@@ -1,5 +1,7 @@
 #### Skills Assessment - Business Analysis
 
+![tw-logo-long-ada](https://static.wixstatic.com/media/455fbf_6b936acf39a54877be977990d513c7ea~mv2.png/v1/fill/w_228,h_37,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tw-logo-long-ada.png)
+
 ## Overview
 This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based catalog to a digital solution. 
 The goal is to improve user experience and streamline library operations through requirement gathering, system design, and strategic implementation.
