@@ -9,7 +9,6 @@ Land here at TLS.
 |---------------------------------------|
 |  Navigation Menu:                     |
 |  [Home] [Catalog] [Account] [Help]    |
-+---------------------------------------+
 
 # Search Results Screen
 Search yields results.
