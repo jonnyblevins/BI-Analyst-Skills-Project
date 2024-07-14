@@ -74,14 +74,21 @@ The purpose of this project is to digitize the library's paper-based card catalo
 - All data migration must be completed accurately and securely.
 
 ## Approval
+
 **Project Sponsor:**  
+
 Name: State Education Department Representative 
+
 Signature: ____________________________  
+
 Date: ____________________________  
 
 **Project Manager:**  
+
 Name: Jonathan "Jonny" Blevins
+
 Signature: ____________________________  
+
 Date: ____________________________  
 
 
