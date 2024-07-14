@@ -1,5 +1,9 @@
 # Risk Assessment Template for Library Digitization Project
 
+<div style="text-align: center;">
+    <img src="https://static.wixstatic.com/media/a26b8b_e2a7480e1891488b923c1508880e3fdb~mv2.png/v1/fill/w_347,h_348,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Be-Flexible.png" alt="Troy Web Consulting Be Flexible Core Value" style="object-fit: contain; object-position: center center; width: 25%;">
+</div>
+
 ## 1. Project/Activity:
 Digitizing the library's paper-based card catalog system
 
