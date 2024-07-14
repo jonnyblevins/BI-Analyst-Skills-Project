@@ -17,7 +17,7 @@ The goal is to improve user experience and streamline library operations through
 - **TWCBAPresentation.pptx**: Outlines the project proposal for the library.
 
 ### 3. Documentation
-[Documentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation.md)
+[Documentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/3_The_Documentation.md)
 - **RequirementsDocument.md**: Detailed functional, UI/UX, technical, and transitional requirements.
 - **UserStories.md**: User stories and use cases for the system.
 - **SystemContextDiagram.png**: A high-level diagram of the system context.
