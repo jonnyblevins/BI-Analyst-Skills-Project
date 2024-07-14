@@ -5,13 +5,6 @@
 This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based catalog to a digital solution. 
 The goal is to improve user experience and streamline library operations through requirement gathering, system design, and strategic implementation.
 
-## :small_orange_diamond: How to Use This Repository
-1. **The Design**: Review the design file in the `Demo` folder to understand the proposed user interface.
-2. **The Presentation**: Check the `Presentation` folder for the PowerPoint presentation that was used to communicate the project proposal to the librarians.
-3. **The Documentation**: The `Documentation` folder contains all the necessary documents detailing the requirements, user stories, system diagrams, and wireframes.
-4. **The Risk Assessment**: Look at the `RiskAssessmentMatrix.md` to understand the identified risks and proposed mitigation strategies.
-5. **The Project Charter**: The `ProjectCharter.md` provides an overview of the project's goals, scope, and timeline.
-
 ## :orange_book: Index
 
 ### 1. Demo
@@ -33,10 +26,12 @@ The goal is to improve user experience and streamline library operations through
 - **RiskAssessmentMatrix.md**: A risk assessment matrix identifying potential risks and mitigation strategies.
 
 ### 5. Project Charter
+[Project Charter.md](https://github.com/TWCSkillsAssessment/The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
-### 6. TLDR
-- **TooLongDidntRead.md**: I'm here to save you time. It's your questions + my answers, plain and simple.
+### 6. Too Long; Didn't Read
+[TLDR.md](https://github.com/TWCSkillsAssessment/TLDR.md)
+- My penultimate goal is to save time. Your questions + My answers = Fast.
 
 
 ## :notebook: Conclusion
