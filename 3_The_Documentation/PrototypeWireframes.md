@@ -50,7 +50,7 @@ Personal account for user.
 
 |  User Information:                    |
 |  Name: Shifra Holmes                  |
-|  Email: Shifra.Holmes@example.com     |
+|  Email: Shifra.Holmes@example.yahoo   |
 |---------------------------------------|
 |  Current Loans:                       |
 |  1. Book Title - Due Date             |
