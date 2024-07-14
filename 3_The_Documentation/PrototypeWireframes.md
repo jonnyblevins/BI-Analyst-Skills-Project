@@ -24,12 +24,11 @@ Search yields results.
 +---------------------------------------+
 |  Navigation Menu:                     |
 |  [Home] [Catalog] [Account] [Help]    |
-+---------------------------------------+
 
 # Media Details Screen
 More info about media.
 
-+---------------------------------------+
+
 |  Cover Image                          |
 |---------------------------------------|
 |  Title                                |
@@ -43,12 +42,12 @@ More info about media.
 +---------------------------------------+
 |  Navigation Menu:                     |
 |  [Home] [Catalog] [Account] [Help]    |
-+---------------------------------------+
+
 
 # Account 
 Personal account for user.
 
-+---------------------------------------+
+
 |  User Information:                    |
 |  Name: Shifra Holmes                  |
 |  Email: Shifra.Holmes@example.com     |
@@ -68,12 +67,12 @@ Personal account for user.
 +---------------------------------------+
 |  Navigation Menu:                     |
 |  [Home] [Catalog] [Account] [Help]    |
-+---------------------------------------+
+
 
 # Librarian Dashboard
 Stats about users, checked out books, etc.
 
-+---------------------------------------+
+
 |  Dashboard Overview:                  |
 |  Total Books: 1200                    |
 |  Total Members: 300                   |
@@ -86,7 +85,6 @@ Stats about users, checked out books, etc.
 |---------------------------------------|
 |  Reports:                             |
 |  [Most Borrowed Books] [Overdue Books]|
-+---------------------------------------+
 
 # Reader Room
 Possible live stream platform or connection to Twitch/Youtube.
