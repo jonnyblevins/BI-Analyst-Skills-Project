@@ -30,7 +30,7 @@ The goal is to improve user experience and streamline library operations through
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
 ### 6. Too Long; Didn't Read
-[TLDR.md](https://github.com/TWCSkillsAssessment/TLDR.md)
+[TLDR.md](https://github.com/TWCSkillsAssessment/6._TLDR.md)
 - My penultimate goal is to save time. Your questions + My answers = Fast.
 
 
