@@ -8,12 +8,12 @@ The goal is to improve user experience and streamline library operations through
 ## :orange_book: Index
 
 ### 1. Demo
-[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design.md)
+[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md)
 - **LibraryApp.fig**: Design for the proposed library system interface.
 - **README.md**: Details on navigating and understanding the design.
 
 ### 2. Presentation
-[Presentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/2_The_Presentation.md)
+[Presentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/2_The_Presentation/2_The_Presentation.md)
 - **TWCBAPresentation.pptx**: Outlines the project proposal for the library.
 
 ### 3. Documentation
