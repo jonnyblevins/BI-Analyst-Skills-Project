@@ -26,14 +26,14 @@ The goal is to improve user experience and streamline library operations through
 - **RiskAssessmentMatrix.md**: A risk assessment matrix identifying potential risks and mitigation strategies.
 
 ### 5. Project Charter
-[Project Charter.md](https://github.com/TWCSkillsAssessment/The_Project_Charter.md)
+[Project Charter.md](https://github.com/TWCSkillsAssessment/5_The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
 ### 6. Too Long; Didn't Read
-[TLDR.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6.-TLDR.md)
+[TLDR.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_TLDR.md)
 - My penultimate goal is to save time. Your questions + My answers = Fast.
 
 
-## :notebook: Conclusion
+## :large_orange_diamond: Conclusion
 This repository provides a comprehensive demonstration of the business analysis process for a smooth transition to modernizing a library's inventory system. 
 The project and product is set to improve user experience for librarians and patrons alike.
