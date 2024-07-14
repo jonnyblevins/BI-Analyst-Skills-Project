@@ -1,7 +1,6 @@
 # Homepage
 Land here at TLS.
 
-+---------------------------------------+
 |  Search Bar                           |
 |---------------------------------------|
 |  Quick Links:                         |
@@ -15,7 +14,6 @@ Land here at TLS.
 # Search Results Screen
 Search yields results.
 
-+---------------------------------------+
 |  Search Bar                           |
 |---------------------------------------|
 |  Filters: [Format] [Genre] [Available]|
