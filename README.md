@@ -35,6 +35,8 @@ The goal is to improve user experience and streamline library operations through
 ### 5. Project Charter
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
+### 6. TLDR
+- **TooLongDidntRead.md**: I'm here to save you time. It's your questions + my answers, plain and simple.
 
 
 ## :notebook: Conclusion
