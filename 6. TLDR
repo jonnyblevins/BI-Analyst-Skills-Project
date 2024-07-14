@@ -1,0 +1,62 @@
+#### :sleepy: Too Long ; Didn't Read
+I'm extremely conscious of others' time. I'm an elder millenial and feel like the middle child, seeing the points of generations older and younger than me (meanwhile, just let me have my avocado toast).
+Below are the categories you provided followed by simple questions to fulfill the assessment.
+
+# The Ask (What Troy Web would like to see you do!)
+
+## 1. Functional Needs (Requirements)
+1. **Current System Usage**: 
+   - "Can you walk me through how you currently use your paper-based card catalog for lending and returning books? Are you using the Dewey Decimal system? I am down with the Dewey, let's keep its spirit alive in the new system!"
+2. **Preferred Features**: 
+   - "Are there any features from your current system that you really like and would want to keep in the new system?"
+3. **Reservations and Hold Requests**: 
+   - "How would you like the system to manage book reservations and hold requests?"
+4. **Lending Policies**: 
+   - "What are your current policies for lending periods, renewals, and handling late fees?"
+5. **Media Types**: 
+   - "What kinds of media are in the system now, and what new types would you like the new system to support?"
+
+## 2. UI/UX Requirements
+1. **Interface Preferences**: 
+   - "What kind of look and feel are you envisioning for the system’s interface? Any design preferences or themes? How about a motif?"
+2. **User Experience**: 
+   - "How should the system accommodate users with varying levels of tech-savviness? Are there any accessibility requirements for patrons with disabilities?"
+3. **Search Functionality**: 
+   - "How do you want the search functionality to work for finding books in the catalog? Should it include e-books, e-audiobooks, physical books, and databases?"
+4. **Navigation Features**: 
+   - "Are there any navigation features that are particularly important to you, like quick links or shortcuts?"
+5. **Feedback and Customization**: 
+   - "How should users (both librarians and patrons) be able to provide feedback on the system? Should the system allow for customization by the library staff?"
+
+## 3. Technical Requirements
+1. **System Integration**: 
+   - "I'm sure you're familiar with the Integrated Library System. Are there any existing digital systems or databases from working with them that the new system needs to integrate with?"
+2. **Data Migration**: 
+   - "What are the data migration requirements from the current paper-based system to the new digital system? Do you already have some .MARC files for bibliogrpahic material (required for all)?"
+3. **Security and Data Privacy**: 
+   - "What are the security requirements for protecting patron data and book inventory information? How should the system handle authentication and authorization for librarians and patrons?"
+4. **Scalability and Performance**: 
+   - "What are the expected peak usage times, and how should the system handle high traffic periods? Are there any specific performance requirements, like response times for searches or transactions?"
+5. **Backup and Recovery**: 
+   - "What are the requirements for data backup and recovery in case of system failures or data loss?"
+
+## 4. Transitional Requirements
+1. **Change Management**: 
+   - "What kind of training will be needed for librarians to transition from the paper-based system to the new digital system? How should the transition be managed to minimize disruption to library operations?"
+2. **Data Migration**: 
+   - "How much historical data from the paper-based system needs to be digitized and migrated to the new system? What is the plan for verifying the accuracy of the data after migration?"
+3. **Support and Maintenance**: 
+   - "What kind of ongoing support and maintenance will be required for the new system? Are there any specific requirements for user support, like helpdesk or tutorials?"
+4. **Pilot Testing and Rollout**: 
+   - "Would you prefer a phased rollout of the new system, starting with a pilot program, or a full-scale implementation? How will success be measured during the transition period, and what are the key milestones?"
+
+## Additionally:
+
+### 1. Orienting Clients to the SDLC Process
+- "To make you feel comfortable with the Software Development Life Cycle (SDLC) process, we'll start with a high-level overview. I'll walk you through each phase, from initial planning and requirements gathering to design, development, testing, deployment, and maintenance. We’ll make sure you understand each step and feel at ease discussing your challenges and voicing your opinions."
+
+### 2. Handling Stakeholder Disagreements
+- "If there’s a disagreement between stakeholders about the 'most important' features or how they should function, I'd facilitate a collaborative discussion to understand each perspective. We’d prioritize features based on factors like user impact, feasibility, and alignment with the library’s goals. Using techniques like MoSCoW prioritization (Must have, Should have, Could have, and Won’t have) can help us reach a consensus."
+
+### 3. Follow-Up Activities After the First Meeting
+- "After our initial meeting, I’d create a high-level requirements document summarizing what we discussed. I’d develop user stories or use cases to clarify functionality, draft a preliminary system context diagram, and create a basic process flow diagram of the proposed system. Additionally, I’d develop a simple prototype or wireframe of key screens to visualize the system. Preparing a risk assessment matrix and drafting a project charter outlining goals, scope, and a high-level timeline would also be part of the follow-up."
