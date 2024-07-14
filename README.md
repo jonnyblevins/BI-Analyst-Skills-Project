@@ -8,13 +8,16 @@ The goal is to improve user experience and streamline library operations through
 ## :orange_book: Index
 
 ### 1. Demo
+[Design.md](https://github.com/TWCSkillsAssessment/blob/main/1_The_Design.md)
 - **LibraryApp.fig**: Design for the proposed library system interface.
 - **README.md**: Details on navigating and understanding the design.
 
 ### 2. Presentation
+[Presentation.md](https://github.com/TWCSkillsAssessment/blob/main/2_The_Presentation.md)
 - **TWCBAPresentation.pptx**: Outlines the project proposal for the library.
 
 ### 3. Documentation
+[Documentation.md](https://github.com/TWCSkillsAssessment/blob/main/3_The_Documentation.md)
 - **RequirementsDocument.md**: Detailed functional, UI/UX, technical, and transitional requirements.
 - **UserStories.md**: User stories and use cases for the system.
 - **SystemContextDiagram.png**: A high-level diagram of the system context.
@@ -23,17 +26,18 @@ The goal is to improve user experience and streamline library operations through
 - **README.md**: An overview of the documentation content.
 
 ### 4. Risk Assessment
+[RiskAssessment.md](https://github.com/TWCSkillsAssessment/blob/main/5_The_Project_Charter.md)
 - **RiskAssessmentMatrix.md**: A risk assessment matrix identifying potential risks and mitigation strategies.
 
 ### 5. Project Charter
-[Project Charter.md](https://github.com/TWCSkillsAssessment/5_The_Project_Charter.md)
+[ProjectCharter.md](https://github.com/TWCSkillsAssessment/blob/main/5_The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
 ### 6. Too Long; Didn't Read
 [TLDR.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_TLDR.md)
-- My penultimate goal is to save time. Your questions + My answers = Fast.
+- My penultimate goal is to save time. Questions + Answers = Fast.
 
 
 ## :large_orange_diamond: Conclusion
 This repository provides a comprehensive demonstration of the business analysis process for a smooth transition to modernizing a library's inventory system. 
-The project and product is set to improve user experience for librarians and patrons alike.
+I had a nice time making it, and I'm grateful for my contacts who spent their time helping me refine my ideas.
