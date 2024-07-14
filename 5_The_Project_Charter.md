@@ -1,82 +1,90 @@
 # Project Charter
 
 ## Project Information
-**Project Name:** [Project Name]  
-**Project Sponsor:** [Sponsor Name]  
-**Project Manager:** [Project Manager Name]  
-**Project Start Date:** [Start Date]  
-**Projected End Date:** [End Date]  
+**Project Name:** Library Digitization Project  
+**Project Sponsor:** State Education Department 
+**Project Manager:** Jonny Blevins
+**Project Start Date:** 07/16/2024  
+**Projected End Date:** 06/01/2025 (TBD)
 
 ## Project Purpose
-[A brief overview of the project's purpose, its importance, and the problem it aims to solve.]
+The purpose of this project is to digitize the library's paper-based card catalog system to improve efficiency, accessibility, and data management. The project aims to replace the manual card catalog with a modern digital system that supports various media types, enhances user experience, and integrates with existing library systems.
 
 ## Project Objectives
-- Objective 1
-- Objective 2
-- Objective 3
+- Digitize the existing paper-based card catalog.
+- Implement a user-friendly digital system for catalog management.
+- Ensure secure and efficient data migration and system integration.
 
 ## Scope
 ### In Scope:
-- Item 1
-- Item 2
-- Item 3
+- Digitization of card catalog
+- Development of a digital catalog management system
+- Training for library staff on the new system
 
 ### Out of Scope:
-- Item 1
-- Item 2
-- Item 3
+- Digitization of non-catalog materials
+- Development of mobile applications
+- Integration with non-library systems
 
 ## Deliverables
-- Deliverable 1
-- Deliverable 2
-- Deliverable 3
+- Digital catalog management system
+- Training materials and sessions for library staff
+- Data migration from paper to digital format
 
 ## Milestones
-| Milestone | Description | Due Date |
-|-----------|-------------|----------|
-| Milestone 1 | Description of milestone 1 | [Due Date] |
-| Milestone 2 | Description of milestone 2 | [Due Date] |
-| Milestone 3 | Description of milestone 3 | [Due Date] |
+| Milestone     | Description                         | Due Date    |
+|---------------|-------------------------------------|-------------|
+| Milestone 1   | Initial planning and requirements   | 08/16/2024  |
+| Milestone 2   | System design and development       | 10/16/2024  |
+| Milestone 3   | Data migration and testing          | 01/16/2025  |
+| Milestone 4   | Staff training and system rollout   | 04/16/2025  |
 
 ## Stakeholders
-**Project Sponsor:** [Sponsor Name]  
-**Project Manager:** [Project Manager Name]  
+**Project Name:** Library Digitization Project  
+**Project Sponsor:** State Education Department 
 **Key Stakeholders:**
-- Stakeholder 1
-- Stakeholder 2
-- Stakeholder 3
+- Librarian
+- Library patrons
+- TWC support staff
 
 ## Resources
-**Budget:** [Budget Amount]  
+**Budget:** $40,000 - $70,000
 **Team Members:**
-- Team Member 1
-- Team Member 2
-- Team Member 3
+- Project Manager
+- TWC specialists
+- Training Coordinator
 
 ## Risks and Mitigation
-| Risk | Impact | Likelihood | Mitigation |
-|------|--------|------------|------------|
-| Risk 1 | High/Medium/Low | High/Medium/Low | Mitigation strategy 1 |
-| Risk 2 | High/Medium/Low | High/Medium/Low | Mitigation strategy 2 |
-| Risk 3 | High/Medium/Low | High/Medium/Low | Mitigation strategy 3 |
+| Risk                  | Impact | Likelihood | Mitigation                          |
+|-----------------------|--------|------------|-------------------------------------|
+| Data Entry Errors     | Medium | Medium     | Implement enhanced verification     |
+| System Downtime       | High   | Low        | Schedule regular maintenance        |
+| Security Breach       | High   | Medium     | Conduct regular security audits     |
+| Resistance to Change  | Medium | Medium     | Develop change management program   |
+| Training Issues       | Medium | Medium     | Schedule ongoing training sessions  |
 
 ## Assumptions
-- Assumption 1
-- Assumption 2
-- Assumption 3
+- The library staff coordinator will cooperate fully with the digitization process.
+- Adequate funding will be available throughout the project.
+- Necessary hardware and software will be procured on time.
 
 ## Constraints
-- Constraint 1
-- Constraint 2
-- Constraint 3
+- The project must be completed within the allocated budget.
+- The digitization process must not disrupt regular library operations.
+- All data migration must be completed accurately and securely.
 
 ## Approval
 **Project Sponsor:**  
-Name: [Sponsor Name]  
+Name: State Education Department Representative 
 Signature: ____________________________  
-Date: [Date]
+Date: ____________________________  
 
 **Project Manager:**  
-Name: [Project Manager Name]  
+Name: Jonathan "Jonny" Blevins
 Signature: ____________________________  
-Date: [Date]
+Date: ____________________________  
+
+
+
+[Back to Skills Assessment - Business Analysis](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/README.md)
+
