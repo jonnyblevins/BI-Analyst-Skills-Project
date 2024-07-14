@@ -23,11 +23,11 @@ Jonny Blevins
 
 | Hazard               | Likelihood (1-5) | Severity (1-5) | Risk Rating (LxS) | Controls in Place       | Additional Controls Needed   |
 |----------------------|------------------|----------------|-------------------|-------------------------|------------------------------|
-| Data Entry Errors    | 3                | 3              | 9                 | Quality checks, training | Enhanced verification processes |
-| System Downtime      | 2                | 4              | 8                 | Backup systems, IT support | Regular system maintenance     |
+| Data Entry Errors    | 4                | 3              | 9                 | Quality checks, training | Enhanced verification processes |
+| System Downtime      | 2                | 4              | 7                 | Backup systems, IT support | Regular system maintenance     |
 | Security Breach      | 2                | 5              | 10                | Security protocols, encryption | Regular security audits       |
-| Resistance to Change | 3                | 3              | 9                 | Communication, training  | Change management programs    |
-| Training Issues      | 3                | 3              | 9                 | Initial training sessions | Ongoing training and support  |
+| Resistance to Change | 1                | 3              | 3                 | Communication, training  | Change management programs    |
+| Training Issues      | 2                | 3              | 4                 | Initial training sessions | Ongoing training and support  |
 
 ## 6. Action Plan:
 
