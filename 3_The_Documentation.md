@@ -1,8 +1,9 @@
 # Documentation
 
 <div style="text-align: center;">
-    <img src="IMAGE_URL_HERE" alt="IMAGE_ALT_TEXT_HERE" style="object-fit: contain; object-position: center center; width: 25%;">
+    <img src="https://static.wixstatic.com/media/a26b8b_18415c043d834950a45e27488d51f39a~mv2.png/v1/fill/w_347,h_348,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Kick-Ass-Shirt.png" alt="Troy Web Consulting Kickass Core Value" style="object-fit: contain; object-position: center center; width: 25%;">
 </div>
+
 
 - **RequirementsDocument.md**: Detailed functional, UI/UX, technical, and transitional requirements.
   
