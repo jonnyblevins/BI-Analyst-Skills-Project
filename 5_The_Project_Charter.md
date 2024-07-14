@@ -1,5 +1,9 @@
 # Project Charter
 
+<div style="text-align: center;">
+    <img src="https://static.wixstatic.com/media/a26b8b_f32f1368c7764f25ae2636532e6d0596~mv2.png/v1/fill/w_347,h_348,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Be-Kind.png" alt="Troy Web Consulting Be Kind Core Value" style="object-fit: contain; object-position: center center; width: 100%;">
+</div>
+
 ## Project Information
 **Project Name:** Library Digitization Project  
 **Project Sponsor:** State Education Department 
