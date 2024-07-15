@@ -41,5 +41,5 @@ This project memorializes meeting one between TWC and the library representative
 
 
 ## :large_orange_diamond: TL;DR
-Library meets 21st century.
+TWC helps library meet 21st century.
 <br>
