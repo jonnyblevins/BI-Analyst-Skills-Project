@@ -1,5 +1,5 @@
 # Design :art:
-[Figma Design](https://www.figma.com/design/IqlCdUTe14HV1mWN5pASkx/Untitled?node-id=0-1&t=qPur7c3HEVqpES9F-1)
+[See the Design on Figma](https://www.figma.com/design/IqlCdUTe14HV1mWN5pASkx/Untitled?node-id=0-1&t=qPur7c3HEVqpES9F-1)
 
 Admittedly I am not a designer. Possibly unteachable in that area, but I always give it a go. 
 
