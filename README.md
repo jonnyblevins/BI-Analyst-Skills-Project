@@ -2,15 +2,17 @@
 #### Skills Assessment - Business Analysis
 
 ## :large_orange_diamond: Overview
-This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based catalog to a digital solution. 
-The goal is to improve user experience and streamline library operations through requirement gathering, system design, and strategic implementation.
+This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
+-Goal: Upgrade "paper-based card catalog"
+-Initial Scope: Develop for "two roles in the system"
+This project memorializes meeting one between TWC and the library representative and provides bonus content and plans
 
 ## :orange_book: Index
 
 ### 1. Demo
 [Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md)
-- **LibraryApp.fig**: Design for the proposed library system interface.
-- **README.md**: Details on navigating and understanding the design.
+- **Figma Design**: Demo of the proposed library system interface.
+- **README.md**: Explanation of the design
 
 ### 2. Presentation
 [Presentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/2_The_Presentation/2_The_Presentation.md)
