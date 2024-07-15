@@ -12,7 +12,7 @@ This project provides a scenario for meeting one between TWC project personnel a
 
 
 ### 1. The Ask
-[Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Ask.md)
+[Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Ask.md)
 - Questions + Answers
   
 ### 2. Presentation
@@ -37,7 +37,7 @@ This project provides a scenario for meeting one between TWC project personnel a
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
 ### 6. Design
-[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md)
+[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Design/6_The_Design.md)
 - **Figma Design**: Demo of the proposed library system interface.
 - **README.md**: Explanation of the design
 
