@@ -9,11 +9,11 @@ This project memorializes meeting one between TWC and the library representative
 
 ## :orange_book: Index
 
-### 1. Demo
-[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md)
-- **Figma Design**: Demo of the proposed library system interface.
-- **README.md**: Explanation of the design
 
+### 1. The Ask
+[Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Ask.md)
+- Questions + Answers
+  
 ### 2. Presentation
 [Presentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/2_The_Presentation/2_The_Presentation.md)
 - **TWCBAPresentation.pptx**: Outlines the project proposal for the library.
@@ -35,9 +35,10 @@ This project memorializes meeting one between TWC and the library representative
 [ProjectCharter.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/5_The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
-### 6. The Ask
-[Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Ask.md)
-- Questions + Answers
+### 6. Design
+[Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md)
+- **Figma Design**: Demo of the proposed library system interface.
+- **README.md**: Explanation of the design
 
 
 ## :large_orange_diamond: TL;DR
