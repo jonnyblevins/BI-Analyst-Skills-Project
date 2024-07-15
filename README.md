@@ -10,16 +10,29 @@ This project provides a scenario for meeting one between TWC project personnel a
 
 ## :orange_book: Index
 
+## Jump to:
+- [1. Ask](#the-ask)
+  
+- [2. Presentation](#presentation)
+  
+- [3. Documentation](#documentation)
+  
+- [4. Risk Assessment](#risk-assessment)
+  
+- [5. Project Charter](#project-charter)
+  
+- [6. Design](#design)
+
 
 ### 1. The Ask
 [Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Ask.md)
 - Questions + Answers
   
-### 2. Presentation
+### 2. The Presentation
 [Presentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/2_The_Presentation/2_The_Presentation.md)
 - **TWCBAPresentation.pptx**: Outlines the project proposal for the library.
 
-### 3. Documentation
+### 3. The Documentation
 [Documentation.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/3_The_Documentation.md)
 - **RequirementsDocument.md**: Detailed functional, UI/UX, technical, and transitional requirements.
 - **UserStories.md**: User stories and use cases for the system.
@@ -28,15 +41,15 @@ This project provides a scenario for meeting one between TWC project personnel a
 - **PrototypeWireframes/**: Wireframes for key screens in the system.
 - **README.md**: An overview of the documentation content.
 
-### 4. Risk Assessment
+### 4. The Risk Assessment
 [RiskAssessment.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/4_The_Risk_Assessment.md)
 - **RiskAssessmentMatrix.md**: A risk assessment matrix identifying potential risks and mitigation strategies.
 
-### 5. Project Charter
+### 5. The Project Charter
 [ProjectCharter.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/5_The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
-### 6. Design
+### 6. The Design
 [Design.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Design/6_The_Design.md)
 - **Figma Design**: Demo of the proposed library system interface.
 - **README.md**: Explanation of the design
