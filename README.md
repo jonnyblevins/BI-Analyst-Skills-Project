@@ -6,7 +6,7 @@ This project emulates my business analysts's (project/product manager) approach 
 - Goal: Upgrade "paper-based card catalog"
 - Initial Scope: Develop for "two roles in the system"
 
-This project covers meeting one between TWC and the library representative and provides content beyond optional bonus questions.
+This project provides a scenario for meeting one between TWC project personnel and the library representative and provides content beyond optional bonus questions.
 
 ## :orange_book: Index
 
