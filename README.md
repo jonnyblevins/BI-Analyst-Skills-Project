@@ -35,9 +35,9 @@ This project memorializes meeting one between TWC and the library representative
 [ProjectCharter.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/5_The_Project_Charter.md)
 - **ProjectCharter.md**: A project charter outlining the goals, scope, and high-level timeline for the project.
 
-### 6. Too Long; Didn't Read
-[TLDR.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_TLDR.md)
-- My penultimate goal is to save time. Questions + Answers = Fast.
+### 6. The Ask
+[Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Ask.md)
+- Questions + Answers
 
 
 ## :large_orange_diamond: Conclusion
