@@ -1,5 +1,5 @@
 # Homepage
-For a more aesthetic experience, please see the [Design](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Design/1_The_Design.md) file.
+For a more aesthetic experience, please see the [Design](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/6_The_Design/6_The_Design.md) file.
 
 Land here after the TLS handshake (https).
 
