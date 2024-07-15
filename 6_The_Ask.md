@@ -110,6 +110,7 @@
 ## 1. SDLC Process
 ### Assuming that the client is unfamiliar with the SDLC process, how would you orient them to feel comfortable with the process, to ensure they feel at ease when discussing their challenges and voicing their opinions?
 (planning :arrow_forward: design :arrow_forward: development :arrow_forward: testing :arrow_forward: deployment :arrow_forward: maintenance)
+<br>
 "We are currently in the planning phase. As part of discovery, it might seem like I'm asking a lot of questions, but I'm going to use that information to make sure the patrons neeeds' are met and the libary's needs are met to create the product you want as well as elevate the experience."
 
 ## 2. Stakeholder Disagreements
