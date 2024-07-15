@@ -10,20 +10,6 @@ This project provides a scenario for meeting one between TWC project personnel a
 
 ## :orange_book: Index
 
-## Jump to:
-- [1. Ask](#the-ask)
-  
-- [2. Presentation](#presentation)
-  
-- [3. Documentation](#documentation)
-  
-- [4. Risk Assessment](#risk-assessment)
-  
-- [5. Project Charter](#project-charter)
-  
-- [6. Design](#design)
-
-
 ### 1. The Ask
 [Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Ask.md)
 - Questions + Answers
