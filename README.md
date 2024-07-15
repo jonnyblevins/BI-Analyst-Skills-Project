@@ -40,7 +40,6 @@ This project memorializes meeting one between TWC and the library representative
 - Questions + Answers
 
 
-## :large_orange_diamond: Conclusion
-This repository provides a comprehensive demonstration of the business analysis process for a smooth transition to modernizing a library's inventory system. 
+## :large_orange_diamond: TL;DR
+Library meets 21st century.
 <br>
-I had a nice time making it, and I'm grateful for my contacts who spent their time helping me refine my ideas.
