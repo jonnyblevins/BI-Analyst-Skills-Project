@@ -25,7 +25,8 @@ I like to be conscious of others' time. Below please find my solutions for the p
 ## What questions would you ask the librarians in regards to the functional needs (requirements) of the system?
 
 1. **Current System Usage**: 
-   - "Can you walk me through how you currently use your paper-based card catalog for lending and returning books? Are you also using the Dewey Decimal system? I am down with the Dewey, let's keep its spirit alive in the new system!" (Buy-in is extremely important in the beginning, and this allows the librarian time to give that librarian-esque deeper dive into the subject of categorization by subject, author, shelf, etc.)
+   - "Can you walk me through how you currently use your paper-based card catalog for lending and returning books?
+(Buy-in is extremely important from the beginning, and this allows the librarian time to give that librarian-esque deeper dive into the subject of categorization by subject, author, shelf, etc.)
      
 2. **Preferred Features**: 
    - "Are there any features from your current system that you really like and would want to keep in the new system?"
