@@ -25,40 +25,43 @@ I like to be conscious of others' time. Below please find my solutions for the p
 ## What questions would you ask the librarians in regards to the functional needs (requirements) of the system?
 
 1. **Current System Usage**: 
-   - "Can you walk me through how you currently use your paper-based card catalog for lending and returning books?
-(Buy-in is extremely important from the beginning, and this allows the librarian time to give that librarian-esque deeper dive into the subject of categorization by subject, author, shelf, etc.)
+   - "Can I see a card and can you walk me through how you currently use your paper-based card catalog for lending and returning books?"
      
 2. **Preferred Features**: 
-   - "Are there any features from your current system that you really like and would want to keep in the new system?"
+   - "Are there any features from your current system that you really like? Why is that important?"
      
 3. **Reservations and Hold Requests**: 
-   - "How would you like the system to manage book reservations and hold requests?"
+   - "How would you like the system to manage book reservations and hold requests? Are there any bottlenecks in your current system?"
      
 4. **Lending Policies**: 
    - "What are your current policies for lending periods, renewals, and handling late fees?"
      
 5. **Media Types**: 
-   - "What kinds of media are in the system now, and what new types would you like the new system to support?"
+   - "What kinds of media are in the system now, and what new types of media would you like the new system to support?"
+
+6. **Extra**:
+   - "Are there any other functional needs that I didn't cover above?"
 
 
 
 
 # 2. UI/UX Requirements
 ## What questions would you ask the librarians in regards to the UI/UX requirements of the system?
+
 1. **Interface Preferences**: 
-   - "What kind of look and feel are you envisioning for the system’s interface? Any design preferences or themes? How about a motif?"
+   - "We have recommendations for clean and simple design, do you have any special requests?"
      
 2. **User Experience**: 
-   - "How should the system accommodate users with varying levels of tech-savviness? Are there any accessibility requirements for patrons with disabilities?"
-     
+   - "How should the system accommodate users with varying levels of tech-savviness? We design for accessibility, does your library have any special programs for people with different abilities?" 
+
 3. **Search Functionality**: 
-   - "How do you want the search functionality to work for finding books in the catalog? Should it include e-books, e-audiobooks, physical books, and databases?"
+   - "How do you want the search functionality to work for finding books in the catalog? We will provide a drop-down bar to give a 'search by' function."
      
 4. **Navigation Features**: 
-   - "Are there any navigation features that are particularly important to you, like quick links or shortcuts?"
+   - "On a website, we have a menu that can help users navigate to different sections. As a librarian, what are the key topics you need to break down your library by?"
      
 5. **Feedback and Customization**: 
-   - "How should users (both librarians and patrons) be able to provide feedback on the system? Should the system allow for customization by the library staff?"
+   - "How should users (both the librarian and patrons) be able to provide feedback on the system? Should the system allow for customization by the library staff?"
 
 
 
@@ -66,19 +69,22 @@ I like to be conscious of others' time. Below please find my solutions for the p
 # 3. Technical Requirements
 ## What questions would you ask the librarians in regards to the technical requirements of the system?
 1. **System Integration**: 
-   - "I'm sure you're familiar with the Integrated Library System. Are there any existing digital systems or databases from working with them that the new system needs to integrate with?"
+   - "I'm sure you're familiar with the Integrated Library System (ILS). Are there any existing digital systems or databases that we need to be aware of or interact with that the new system needs to integrate with?"
      
 2. **Data Migration**: 
-   - "What are the data migration requirements from the current paper-based system to the new digital system? Do you already have some .MARC files for bibliogrpahic material (required for all)?"
+   - "What are the data migration requirements from the current paper-based system to the new digital system? Do you already have some .MARC files for bibliogrpahic material (required for all)? Are you able to provide us with the card catalog data to transfer to an electronic system?"
+
+3. **Compliance**:
+   - "Are there state, city, or federal requirements that this library needs to follow?" 
      
 3. **Security and Data Privacy**: 
    - "What are the security requirements for protecting patron data and book inventory information? How should the system handle authentication and authorization for librarians and patrons?"
      
 4. **Scalability and Performance**: 
-   - "What are the expected peak usage times, and how should the system handle high traffic periods? Are there any specific performance requirements, like response times for searches or transactions?"
+   - "When we design websites, there's a high traffic period and down time, think about it like traffic on a road. What are your operating hours? We'll have to create a screen for downtime and updates or decide to have continuous updates."
      
 5. **Backup and Recovery**: 
-   - "What are the requirements for data backup and recovery in case of system failures or data loss?"
+   - "For data backup and recovery we have a standard to develop a system for failures and data loss?"
 
 
 
@@ -86,16 +92,16 @@ I like to be conscious of others' time. Below please find my solutions for the p
 # 4. Transitional Requirements
 ## What questions would you ask the librarians in regards to the transitional requirements of the system (i.e. from catalog/paper-based system to software solution)?
 1. **Change Management**: 
-   - "What kind of training will be needed for librarians to transition from the paper-based system to the new digital system? How should the transition be managed to minimize disruption to library operations?"
+   - "What kind of training will be needed for the librarian to transition from the paper-based system to the new digital system? How should the transition be managed to minimize disruption to library operations?"
      
 2. **Data Migration**: 
    - "How much historical data from the paper-based system needs to be digitized and migrated to the new system? What is the plan for verifying the accuracy of the data after migration?"
      
 3. **Support and Maintenance**: 
-   - "What kind of ongoing support and maintenance will be required for the new system? Are there any specific requirements for user support, like helpdesk or tutorials?"
+   - "Support and maintenance will be required for the new system. Are there any specific requirements for user support, like helpdesk or tutorials?"
      
 4. **Pilot Testing and Rollout**: 
-   - "Would you prefer a phased rollout of the new system, starting with a pilot program, or a full-scale implementation? How will success be measured during the transition period, and what are the key milestones?"
+   - "We've got two options. One is a phased rollout of the new system, starting with a pilot program. The other is a full-scale implementation. Which of the two at a glance seem like a better approach?
 
 
 
@@ -104,9 +110,8 @@ I like to be conscious of others' time. Below please find my solutions for the p
 
 ## 1. SDLC Process
 ### Assuming that the client is unfamiliar with the SDLC process, how would you orient them to feel comfortable with the process, to ensure they feel at ease when discussing their challenges and voicing their opinions?
-"Let's envision the final result first: a fully deployed and functional library system. This kind of perfect product is going to need the maintenance and support you'll receive post-deployment, and before that, rigorous testing and feedback to ensure everything works perfectly. Before we can start the build phase, the design phase where we map out how everything will look and function my happen. That helps to figure out what we want, and to get there we have already finished the initial planning and requirements gathering. That's why I asked you so many questions! Each of these steps are part of the Software Development Cycle (SDLC), and I hope you feel at ease discussing your challenges and voicing your opinions throughout the process."
-
-In my experiences, people know the final product they want, but they don't know how to get there. It's unconventional, but I like to start at the cart before the horse, and work my way back. After one explanation, you explain the concept again, this time from beginning to end.
+(planning :arrow_forward: design :arrow_forward: development :arrow_forward: testing :arrow_forward: deployment :arrow_forward: maintenance)
+"We are currently in the planning phase. As part of discovery, it might seem like I'm asking a lot of questions, but I'm going to use that information to make sure the patrons neeeds' are met and the libary's needs are met to create the product you want as well as elevate the experience."
 
 ## 2. Stakeholder Disagreements
 ### What strategies would you utilize if there was disagreement between the stakeholders as to the ‘most important’ features in the system? Or how they should function?
@@ -139,7 +144,7 @@ I like to have some fun at work, so maybe I could put the steps into a framework
 ### What ‘fun or exciting’ features could you propose to the librarians to set their library apart from the crowd?
 This is one of the most fun parts of the assignment, and also one where people get the most unrealistic (in a good way!).
 
-My simple idea is a 'Reader Room' landing page in the library's web app where users can recommend books by filling out a form and provide a brief description, adding tags and categories for easier discovery. Because people like the idea of being published and involved, they could also submit formal reviews through the app to Submittable for potential publication and track their submission status directly from the app, therein teaching folks how publication work and helping the library with further grant funding. Depending on the scope of this project, the 'Reader Room' could be a virtual reading room (who doesn't love to be read to?) emulating the same system as a Twitch livestream, or a competitive section with rewards like challenges, badges, and leaderboards. By envisioning the final result first, we can then ensure every development step (planning :arrow_forward: design :arrow_forward: development :arrow_forward: testing :arrow_forward: deployment :arrow_forward: maintenance) aligns to bring the feature(s) to life.
+My simple idea is a 'Reader Room' landing page in the library's web app where users can recommend books by filling out a form and provide a brief description, adding tags and categories for easier discovery. Because people like the idea of being published and involved, they could also submit formal reviews through the app to Submittable for potential publication and track their submission status directly from the app, therein teaching folks how publication work and helping the library with further grant funding. Depending on the scope of this project, the 'Reader Room' could be a virtual reading room (who doesn't love to be read to?) emulating the same system as a Twitch livestream, or a competitive section with rewards like challenges, badges, and leaderboards. By envisioning the final result first, we can then ensure every development step aligns to bring the feature(s) to life.
 
 ## 2. **Feature Challenges**
 ### During your thought exercise (i.e. this task), what feature did you feel could pose the biggest challenge to the app being built successfully? What strategies would you recommend to manage the risks associated with that challenge?
