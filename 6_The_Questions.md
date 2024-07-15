@@ -1,4 +1,4 @@
-# Too Long ; Didn't Read :question:
+# The Questions :question:
 
 I like to be conscious of others' time. Below please find my solutions for the prompts you've provided.
 
