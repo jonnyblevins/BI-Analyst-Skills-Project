@@ -1,5 +1,5 @@
 # :question: The Ask
-## Series of questions to ask librarians (Subject Matter Experts) in post-sales call meeting to assess scopre and requirements.
+## Series of questions to ask librarians (SMEs) in first meeting to determine scope and requirements.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56dbb810-fdb1-4547-a489-26c8ea0b5326" alt="Centered Image">
