@@ -7,7 +7,7 @@
 
 - **[RequirementsDocument.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/RequirementsDocument.md)**: Detailed functional, UI/UX, technical, and transitional requirements.
   
-- **[UserStories.md/](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/UserStories.md)**: User stories and use cases for the system.
+- **[UserStories.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/UserStories.md)**: User stories and use cases for the system.
   
 - **SystemContextDiagram.png**: A high-level diagram of the system context.
   
