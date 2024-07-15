@@ -1,4 +1,4 @@
-# Risk Assessment Template for Library Digitization Project
+# Risk Assessment
 
 <div style="text-align: center;">
     <img src="https://static.wixstatic.com/media/a26b8b_e2a7480e1891488b923c1508880e3fdb~mv2.png/v1/fill/w_347,h_348,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Be-Flexible.png" alt="Troy Web Consulting Be Flexible Core Value" style="object-fit: contain; object-position: center center; width: 25%;">
@@ -30,7 +30,7 @@ Jonny Blevins
 | Data Entry Errors    | 4                | 3              | 9                 | Quality checks, training | Enhanced verification processes |
 | System Downtime      | 2                | 4              | 7                 | Backup systems, IT support | Regular system maintenance     |
 | Security Breach      | 2                | 5              | 10                | Security protocols, encryption | Regular security audits       |
-| Resistance to Change | 1                | 3              | 3                 | Communication, training  | Change management programs    |
+| Learning curve       | 1                | 3              | 3                 | Communication, training  | Change management programs    |
 | Training Issues      | 2                | 3              | 4                 | Initial training sessions | Ongoing training and support  |
 
 ## 6. Action Plan:
@@ -40,7 +40,7 @@ Jonny Blevins
 | Data Entry Errors    | Implement enhanced verification   | Project Manager     | 9/16/2024     | 9/16/2024       |
 | System Downtime      | Schedule regular maintenance      | IT Manager          | 9/16/2024     | 9/16/2024       |
 | Security Breach      | Conduct regular security audits   | Security Officer    | 10/16/2024    | 10/16/2024      |
-| Resistance to Change | Develop change management program | HR Manager          | 8/16/2024     | 8/16/2024       |
+| Learning curve       | Develop change management program | HR Manager          | 8/16/2024     | 8/16/2024       |
 | Training Issues      | Schedule ongoing training         | Training Coordinator| 9/16/2024     | 9/16/2024       |
 
 ## 7. Review:
