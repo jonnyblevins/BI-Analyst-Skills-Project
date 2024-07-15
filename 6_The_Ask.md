@@ -1,6 +1,5 @@
-# :question: The Questions 
-
-I like to be conscious of others' time. Below please find my solutions for the prompts you've provided.
+# :question: The Ask
+## Series of questions to ask librarians (Subject Matter Experts) in post-sales call meeting to assess scopre and requirements.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/56dbb810-fdb1-4547-a489-26c8ea0b5326" alt="Centered Image">
