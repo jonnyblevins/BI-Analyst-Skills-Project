@@ -5,7 +5,8 @@
 This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
 - Goal: Upgrade "paper-based card catalog"
 - Initial Scope: Develop for "two roles in the system"
-This project memorializes meeting one between TWC and the library representative and provides bonus content and plans
+
+This project covers meeting one between TWC and the library representative and provides content beyond optional bonus questions.
 
 ## :orange_book: Index
 
