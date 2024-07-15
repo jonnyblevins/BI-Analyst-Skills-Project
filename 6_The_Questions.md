@@ -1,4 +1,4 @@
-# Too Long ; Didn't Read :sleeping:
+# Too Long ; Didn't Read :question:
 
 I like to be conscious of others' time. Below please find my solutions for the prompts you've provided.
 
@@ -115,13 +115,13 @@ I like to be conscious of others' time. Below please find my solutions for the p
 
 ## 2. Stakeholder Disagreements
 ### What strategies would you utilize if there was disagreement between the stakeholders as to the ‘most important’ features in the system? Or how they should function?
-Should there be a disagreement between stakeholders about the 'most important' features or how they should function, I'd facilitate a collaborative discussion to understand everyone's perspective; it's amazing what the smallest bit of communication can do. I'd find a way for us to prioritize features based on factors like user impact, feasibility, and alignment with the library’s goals. Maybe we'd send them a "MoSCoW prioritization" (Must have, Should have, Could have, and Won’t have) form if they're the writing type, and that could help us reach a consensus.
+I would ask each party and get a profile of where they're coming from; it's amazing what the smallest bit of communication can do. One exercise I sometimes employ is the 'MoSCoW prioritization' (Must have, Should have, Could have, and Won’t have), and that could help us reach a consensus.
 
 ## 3. Follow-Up Activities After the First Meeting
 ### After eliciting the high-level requirements on your first meeting, what follow-up activities would you perform to help prioritize the scope items they’ve discussed with you?
-After the kickoff meeting, I’d create a low-level requirements document summarizing what we discussed. I would develop user stories or use cases to clarify functionality, draft a context diagram, and create a basic process flow of the desired system. Additionally, I think it's important to develop a prototype or wireframe of key screens to visualize the system, because we love a picture. The risk assessment matrix and a first-draft project charter would also be part of the follow-up.
+After the kickoff meeting, I’d create key extractions for the client. Once they review and confirm the document, I'd create a Product Requirement Document (PRD) summarizing what we discussed with user stories, a context diagram, and create a basic process flow of the desired system. 
 ### What thought exercises, or internal deliverables, would you produce to help clarify the ‘ask’ from the client for your colleagues?
-I like to have some fun at work, so maybe I could put the steps into a framework of a "Quest" for gamification as follow:
+I like to have some fun at work, so maybe I could put the steps into a framework of a "Quest" for gamification with my team as follows:
 
 - Step 1: :earth_americas: World Map
 
@@ -142,13 +142,16 @@ I like to have some fun at work, so maybe I could put the steps into a framework
 # Bonus:
 ## 1. **Unique Features**
 ### What ‘fun or exciting’ features could you propose to the librarians to set their library apart from the crowd?
-This is one of the most fun parts of the assignment, and also one where people get the most unrealistic (in a good way!).
+I enjoy having the freedom to be creative, but not too creative. This is quesiton where I imagine people get the most unrealistic (in a good way!).
 
-My simple idea is a 'Reader Room' landing page in the library's web app where users can recommend books by filling out a form and provide a brief description, adding tags and categories for easier discovery. Because people like the idea of being published and involved, they could also submit formal reviews through the app to Submittable for potential publication and track their submission status directly from the app, therein teaching folks how publication work and helping the library with further grant funding. Depending on the scope of this project, the 'Reader Room' could be a virtual reading room (who doesn't love to be read to?) emulating the same system as a Twitch livestream, or a competitive section with rewards like challenges, badges, and leaderboards. By envisioning the final result first, we can then ensure every development step aligns to bring the feature(s) to life.
+-What: Volunteer moderated online shared space similar to Zoom.
+-Where: The "Reader Room" Portal"
+-When: Business Hours
+-Why: A space for to collaborate, talk about and write book reviews (with a [Submittable](https://www.submittable.com/) portal), friendly competition with others and leaderboards
 
 ## 2. **Feature Challenges**
 ### During your thought exercise (i.e. this task), what feature did you feel could pose the biggest challenge to the app being built successfully? What strategies would you recommend to manage the risks associated with that challenge?
-I am a greenhorn to .NET, but I imagine from a little bit of [research](https://www.fortinet.com/resources/cyberglossary/digital-rights-management-drm) that the most challenging feature to implement would be to give security to the virtual reading rooms in a way that isn't awful to work with. It would be very cool to host live book clubs, author readings, and interactive discussions and uploading the element itself wouldn't be an issue, but the backend receives a lot of the technical complexity. To address these risks, I would start with a thorough feasibility study to understand the technical requirements and limitations. If for whatever reason, the library would decide they don't need to protect their your videos, then we'd use a player library or HTML5 video and static-host the video files with the UI only navigating and pointing to them. 
+My initial [research](https://www.fortinet.com/resources/cyberglossary/digital-rights-management-drm) shows that the most challenging feature to implement would be to give security to the virtual reading rooms. It would be very cool to host live book clubs, author readings, and interactive discussions and uploading the element itself wouldn't be an issue, but the backend receives a lot of the technical complexity. To address these risks, I would start with a thorough feasibility study to understand the technical requirements and limitations. If for whatever reason, the library would decide they don't need to protect their your videos, then we'd use a player library or HTML5 video and static-host the video files with the UI only navigating and pointing to them. 
 
 But the whole point of this project is we're trying to get them _out_ of the 19th century, and we'd still need to choose an format that encodes on all modern platforms and browsers. 
 
@@ -157,7 +160,7 @@ Implementing the feature in phases, beginning with simpler functionalities and g
 ## 3. **Operational Requirement Questions**
 ### What if any operational requirements questions would you ask the librarians?
 I'd ask a lot of the same questions I've asked above, but will touch on the most important questions here.
-- "How will access to the Readers Room be managed, and what policies would be in place to ensure fair and efficient use of the space?
+- "How will access to the Reader Room be managed, and what policies would be in place to ensure fair and efficient use of the space?"
   
 - What types of resources should be readily available in the Readers Room? How will these resources be organized and accessed by patrons?
   
