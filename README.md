@@ -1,13 +1,13 @@
 #### Business Analyst Skills Preview
 
-## :large_orange_diamond: Overview
+## :large_green_diamond: Overview
 This project emulates my Business Intelligence approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
 - Goal: Upgrade "paper-based card catalog"
 - Initial Scope: Develop for "two roles in the system"
 
 This project provides a scenario for meeting one between project personnel and the library representative and provides content beyond optional bonus questions.
 
-## :orange_book: Index
+## :green_book: Index
 
 ### 1. The Ask
 [Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Ask.md)
@@ -40,6 +40,6 @@ This project provides a scenario for meeting one between project personnel and t
 - **README.md**: Explanation of the design
 
 
-## :large_orange_diamond: TL;DR
+## :large_green_diamond: TL;DR
 Jonny helps library meet 21st century.
 <br>
