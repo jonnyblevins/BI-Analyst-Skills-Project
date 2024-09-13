@@ -1,12 +1,11 @@
-![tw-logo-long-ada](https://static.wixstatic.com/media/455fbf_6b936acf39a54877be977990d513c7ea~mv2.png/v1/fill/w_228,h_37,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tw-logo-long-ada.png)
-#### Skills Assessment - Business Analysis
+#### Business Analyst Skills Preview
 
 ## :large_orange_diamond: Overview
-This project emulates my business analysts's (project/product manager) approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
+This project emulates my Business Intelligence approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
 - Goal: Upgrade "paper-based card catalog"
 - Initial Scope: Develop for "two roles in the system"
 
-This project provides a scenario for meeting one between TWC project personnel and the library representative and provides content beyond optional bonus questions.
+This project provides a scenario for meeting one between project personnel and the library representative and provides content beyond optional bonus questions.
 
 ## :orange_book: Index
 
@@ -42,5 +41,5 @@ This project provides a scenario for meeting one between TWC project personnel a
 
 
 ## :large_orange_diamond: TL;DR
-TWC helps library meet 21st century.
+Jonny helps library meet 21st century.
 <br>
