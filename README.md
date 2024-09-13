@@ -1,6 +1,6 @@
 #### Business Analyst Skills Preview
 
-## :large_green_diamond: Overview
+## :green_square: Overview
 This project emulates my Business Intelligence approach to modernizing a local library's inventory system from a paper-based card catalog to a digital solution. 
 - Goal: Upgrade "paper-based card catalog"
 - Initial Scope: Develop for "two roles in the system"
@@ -40,6 +40,6 @@ This project provides a scenario for meeting one between project personnel and t
 - **README.md**: Explanation of the design
 
 
-## :large_green_diamond: TL;DR
+## :green_square: TL;DR
 Jonny helps library meet 21st century.
 <br>
