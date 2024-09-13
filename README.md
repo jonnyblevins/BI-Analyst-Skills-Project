@@ -7,7 +7,7 @@ This project emulates my Business Intelligence approach to modernizing a local l
 
 This project provides a scenario for meeting one between project personnel and the library representative and provides content beyond optional bonus questions.
 
-## :green_book: Index
+## :green_circle: Index
 
 ### 1. The Ask
 [Ask.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/1_The_Ask.md)
