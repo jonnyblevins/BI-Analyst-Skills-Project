@@ -1,10 +1,6 @@
 # :question: The Ask
 ### Series of questions to ask librarians (SMEs) in first meeting to determine scope and requirements.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56dbb810-fdb1-4547-a489-26c8ea0b5326" alt="Centered Image">
-</p>
-
 ## Jump to:
 - [1. Functional Requirements](#1-functional-needs-requirements)
   
