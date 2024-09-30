@@ -45,13 +45,13 @@ The purpose of this project is to digitize the library's paper-based card catalo
 **Key Stakeholders:**
 - Librarian
 - Library patrons
-- TWC support staff
+- Support staff
 
 ## Resources
 **Budget:** $40,000 - $70,000
 **Team Members:**
 - Project Manager
-- TWC specialists
+- Specialists
 - Training Coordinator
 
 ## Risks and Mitigation
