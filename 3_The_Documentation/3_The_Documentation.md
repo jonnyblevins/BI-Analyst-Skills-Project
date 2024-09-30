@@ -1,10 +1,5 @@
 # Documentation
 
-<div style="text-align: center;">
-    <img src="https://static.wixstatic.com/media/a26b8b_18415c043d834950a45e27488d51f39a~mv2.png/v1/fill/w_347,h_348,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Kick-Ass-Shirt.png" alt="Troy Web Consulting Kickass Core Value" style="object-fit: contain; object-position: center center; width: 25%;">
-</div>
-
-
 - **[RequirementsDocument.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/RequirementsDocument.md)**: Detailed functional, UI/UX, technical, and transitional requirements.
   
 - **[UserStories.md](https://github.com/jonnyblevins/TWCSkillsAssessment/blob/main/3_The_Documentation/UserStories.md)**: User stories and use cases for the system.
